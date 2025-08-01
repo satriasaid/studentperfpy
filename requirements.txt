@@ -13,8 +13,9 @@ jsonpointer==2.1
 keras==3.10.0
 libclang==18.1.1
 matplotlib==3.10.0
+ml-dtypes==0.5.1
 namex==0.1.0
-numpy==2.0.0
+numpy==2.2.0
 opt_einsum==3.4.0
 optree==0.16.0
 protobuf==4.25.3
